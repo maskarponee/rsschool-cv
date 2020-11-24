@@ -1,0 +1,117 @@
+html {
+
+}
+
+body {
+    font-family: 'Open sans', sans-serif;
+    width: 1024px; 
+    margin-left: auto; 
+    margin-right: auto;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header h3 {
+    background-color: #9e1b20;
+    color: #fff;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+section.about {
+    
+    
+
+}
+
+.social_icons {
+    margin-bottom: 15px;
+}
+
+.social_icons img {
+    width: 20px;
+    margin-right: 10px;
+}
+
+address {
+    margin-top: 30px;
+}
+
+section img {
+    width: 300px;
+
+}
+
+section.self_presentation {
+    margin-bottom: 40px;
+}
+
+section.self_presentation p {
+    color: #5c5c5c;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+section.skills {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    background-color: rgba(238, 238, 238, 0.4);
+    border-radius: 40px;
+    padding: 20px;
+}
+
+section .programming_skillsc{
+    width: 30%;
+}
+
+section .other_skills {
+    width: 30%;
+}
+
+section.education {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    background-color: rgba(238, 238, 238, 0.4);;
+    border-radius: 40px;
+    padding: 20px;
+
+}
+
+section .high_education {
+    width: 22%;
+}
+
+section .course {
+    width: 30%;
+}
+
+section.languages {
+    display: flex;
+    background-color: rgba(238, 238, 238, 0.4);;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+section.languages h2 {
+    width: 28%;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main h2 {
+    color:#9e1b20;
+}
