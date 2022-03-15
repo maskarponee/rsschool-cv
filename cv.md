@@ -2,7 +2,7 @@
 
 ## Contacts:
 **Location:** Minsk, Belarus
-**Phone:** +375(33)6648573
+**Phone:** +375(33)6648572
 **E-mail:** kpxrom@gmail.com
 **Skype:** kpxrom
 **Telegram:** @maskarponee
