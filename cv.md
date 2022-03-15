@@ -15,6 +15,7 @@ I really believe in my strength, I hope that it’s not in vain.
 * HTML
 * CSS
 * Pyton (basic)
+* Figma, Adobe Photoshop
 ##   Language
 * Russian - native
 * Belarusian - native
